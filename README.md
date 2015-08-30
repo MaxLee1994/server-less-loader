@@ -1,4 +1,4 @@
-# less-import-loader
+# server-less-loader [![Build Status](https://travis-ci.org/MaxLee1994/server-less-loader.svg)](https://travis-ci.org/MaxLee1994/server-less-loader)
 
 replace server-side less import statement to webpack require.
 
